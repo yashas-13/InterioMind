@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Interior AI Pro",
+  "description": "Professional-grade AI engine for interior architectural visualization. Transform empty spaces into fully furnished, photorealistic designs in seconds.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
